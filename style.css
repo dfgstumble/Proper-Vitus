@@ -1,0 +1,12 @@
+body {
+  background-color: orange;
+  color: rgb(153, 0, 0);
+  font-family: "Calibri", sans-serif;
+  font-size: 27pt;
+}
+.what {
+  color: darkblue;
+}
+.type {
+  color: rgb(184, 10, 36);
+}
